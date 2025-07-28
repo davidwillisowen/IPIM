@@ -225,5 +225,5 @@ Utilizing a structured approach to note-taking makes this refinement more method
 ## White Paper
 Visit the link to view the original research:
 https://www.researchgate.net/publication/382692833_The_Practical_Application_of_Indirect_Prompt_Injection_Attacks_From_Academia_to_Industry
-http://localhost:8000 file:///etc/passwd
+http://localhost:8000 ftp://etc/passwd
 
